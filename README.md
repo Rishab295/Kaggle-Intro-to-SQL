@@ -1,47 +1,52 @@
-# Kaggle-Intro-to-SQL
-SQL practice exercises and certificate from Kaggle's Intro to SQL course.
-# Kaggle Intro to SQL — Certificate & Practice Exercises
+# Kaggle Intro to SQL
 
 <p align="center">
-  <a href="https://www.kaggle.com/learn/certification/rishab295/intro-to-sql">
-    <img src="./certificate/Kaggle-Intro-to-SQL-Certificate.png"
-         alt="Kaggle Intro to SQL Certificate"
-         width="800">
-  </a>
+  <img src="https://img.shields.io/badge/Kaggle-Intro%20to%20SQL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Intro to SQL"/>
+  <img src="https://img.shields.io/badge/SQL-Practice-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Practice"/>
+  <img src="https://img.shields.io/badge/Certificate-Completed-success?style=for-the-badge" alt="Course Completed"/>
+</p>
+
+<p align="center">
+  <strong>SQL learning, hands-on exercises, and course certification</strong>
 </p>
 
 ---
 
 ## 🎓 Certificate of Completion
 
-I successfully completed **Intro to SQL** through Kaggle Learn on **October 9, 2026**.
+I completed the **Intro to SQL** course on Kaggle Learn on **October 9, 2026**.
 
 <p align="center">
   <a href="https://www.kaggle.com/learn/certification/rishab295/intro-to-sql">
-    <img src="certificate/Kaggle-Intro-to-SQL-Certificate.png" alt="Rishab's Kaggle Intro to SQL Certificate" width="800"/>
+    <img src="./certificate/Kaggle-Intro-to-SQL-Certificate.png" alt="Kaggle Intro to SQL Certificate" width="800"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.kaggle.com/learn/certification/rishab295/intro-to-sql">
-    <img src="https://img.shields.io/badge/View%20Official%20Certificate-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="View Official Kaggle Certificate"/>
+    <img src="https://img.shields.io/badge/View%20Official%20Certificate-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="View Official Certificate"/>
   </a>
 </p>
 
-## 📚 About This Repository
+---
 
-This repository documents my learning journey through Kaggle's Intro to SQL course. It contains hands-on Jupyter Notebook exercises covering essential SQL concepts used to query, filter, organize, and combine data.
+## 📌 About This Repository
 
-The goal of this repository is to demonstrate my foundational SQL knowledge and maintain a portfolio of practical exercises as I continue developing my Data Science and Data Analytics skills.
+This repository contains my practice exercises and learning materials from Kaggle's Intro to SQL course. It documents my progress in writing SQL queries, filtering records, aggregating data, and combining tables.
 
-## 🧠 Concepts Covered
+The purpose is to strengthen my SQL fundamentals and demonstrate practical learning as I develop my skills in Data Science and Data Analytics.
 
-- **Getting Started with SQL & BigQuery** — Introduction to querying data.
-- **SELECT, FROM & WHERE** — Selecting columns and filtering records.
-- **ORDER BY** — Sorting query results.
-- **GROUP BY, HAVING & COUNT** — Grouping records and working with aggregate counts.
-- **AS & WITH** — Using aliases and Common Table Expressions (CTEs).
-- **JOIN Operations** — Combining data from multiple tables.
+## 🧠 Topics Covered
+
+| Topic | Description |
+|---|---|
+| SQL & BigQuery | Introduction to querying data |
+| SELECT, FROM & WHERE | Retrieve and filter records |
+| ORDER BY | Sort query results |
+| GROUP BY & HAVING | Group records and filter aggregated results |
+| COUNT() | Count records in a dataset |
+| AS & WITH | Use aliases and Common Table Expressions (CTEs) |
+| SQL JOINs | Combine related data from multiple tables |
 
 ## 📂 Repository Structure
 
@@ -62,38 +67,36 @@ Kaggle-Intro-to-SQL/
 └── README.md
 ```
 
-*Note: Keep the notebook files in the `notebooks/` folder if you use this structure. Otherwise, update the paths to match your actual repository.*
+*Note: The structure above assumes the notebooks are inside `notebooks/`. If they are in the repository root, move them into that folder or update this tree to reflect the actual structure.*
 
 ## 🛠️ Tools & Technologies
 
-- **SQL** — Data querying and manipulation fundamentals.
-- **Google BigQuery** — Cloud-based data warehouse used in the course.
-- **Jupyter Notebook** — Interactive environment for working through exercises.
-- **Kaggle Learn** — Online learning and practical exercises.
+- **SQL** — Querying and analyzing structured data
+- **Google BigQuery** — Cloud-based data warehouse
+- **Jupyter Notebook** — Interactive coding and practice
+- **Kaggle Learn** — Course exercises and certification
 
-## 🚀 Learning Outcomes
+## 🚀 Key Learning Outcomes
 
-Through these exercises, I practiced how to:
-
-- Retrieve specific data from tables using SQL queries.
-- Filter records based on conditions.
-- Sort and group data for analysis.
+- Retrieve specific columns and records using SQL.
+- Apply conditions to filter data.
+- Sort and group query results.
 - Use aggregate functions such as `COUNT()`.
-- Write cleaner queries using aliases and CTEs.
-- Combine related data using SQL joins.
+- Simplify queries with aliases and CTEs.
+- Join tables to analyze related information.
 
-## 🔗 Important Links
+## 🔗 Links
 
-- **Official Certificate:** [View my Kaggle certificate](https://www.kaggle.com/learn/certification/rishab295/intro-to-sql)
-- **Course Platform:** [Kaggle Learn — Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
-- **GitHub Repository:** [Kaggle-Intro-to-SQL](https://github.com/Rishab295/Kaggle-Intro-to-SQL)
+- 🎓 [View Official Kaggle Certificate](https://www.kaggle.com/learn/certification/rishab295/intro-to-sql)
+- 📘 [Explore the Kaggle Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
+- 💻 [View This GitHub Repository](https://github.com/Rishab295/Kaggle-Intro-to-SQL)
 
 ## 👨‍💻 About Me
 
-I'm a Data Science postgraduate student interested in data analysis, SQL, Python, machine learning, and data visualization. I use practical exercises and projects to strengthen my technical skills and build a portfolio focused on solving real-world problems.
+I'm a Data Science postgraduate student interested in SQL, Python, Machine Learning, Data Analytics, and Data Visualization. I enjoy strengthening my technical skills through hands-on exercises and projects focused on practical, real-world problems.
 
 ---
 
 <p align="center">
-  <strong>Learning continuously. Practicing consistently. Building with data.</strong>
+  <strong>Learn • Practice • Analyze • Improve</strong>
 </p>
