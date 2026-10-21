@@ -3,13 +3,11 @@ SQL practice exercises and certificate from Kaggle's Intro to SQL course.
 # Kaggle Intro to SQL — Certificate & Practice Exercises
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-Intro%20to%20SQL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Intro to SQL"/>
-  <img src="https://img.shields.io/badge/SQL-Learning%20%26%20Practice-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Practice"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Course Completed"/>
-</p>
-
-<p align="center">
-  <strong>A collection of SQL practice exercises and course certification completed through Kaggle Learn.</strong>
+  <a href="https://www.kaggle.com/learn/certification/rishab295/intro-to-sql">
+    <img src="./certificate/Kaggle-Intro-to-SQL-Certificate.png"
+         alt="Kaggle Intro to SQL Certificate"
+         width="800">
+  </a>
 </p>
 
 ---
